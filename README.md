@@ -19,14 +19,16 @@ In this project we make  use a module inside a class in Ruby. For this, we creat
 - Run the project by running `ruby my_list.rb` on the command line. The program will prompt for a message in morse code and will return a decoded message in full uppercase
 
 ## Authors
+
 👤 **Aladdin Aslalem**
 - GitHub:[@AlaaAlsalem](https://github.com/AlaaAlsalem)
 - Linkedin:[AladdinAlsalem](https://www.linkedin.com/in/aladdin-alsalem/)
 
 👤 **Nati**
 
-- GitHub:[]()
-- Linkedin:[]()
+- GitHub: [@NatiG25](https://github.com/NatiG25)
+- Twitter: [@NatiG87702270](https://twitter.com/NatiG87702270)
+- LinkedIn: [@Natnail](https://www.linkedin.com/in/natnailgorgis/)
 
 
 ## 🤝 Contributing
